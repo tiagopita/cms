@@ -1,14 +1,14 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: 'Forum for vegan economic collaboration '
+subtitle: Supporting and promoting vegan businesses
 image: /img/sunflower-1643794_1920.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why focusing on economy?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    To accomodate a growing demand for vegan products and to foster more demand
+    vegan startups need the right partnerships and access to capital. The Vegan
+    Economy Forum wants to connect everyone involved in Veganism and promote
+    collaboration.
 intro:
   heading: What we offer
   text: >-
