@@ -7,7 +7,7 @@
 
 
 @media (--breakpoint-not-small) {
-  .ba-ns { border-style: solid; border-width: 1px; }
+  .ba-ns { border-style: solid; border-width: 0px; }
   .bt-ns { border-top-style: solid; border-top-width: 1px; }
   .br-ns { border-right-style: solid; border-right-width: 1px; }
   .bb-ns { border-bottom-style: solid; border-bottom-width: 1px; }
